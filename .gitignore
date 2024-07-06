@@ -1,0 +1,26 @@
+# Ignora la cartella .vscode
+.vscode/
+
+# Ignora la cartella .git (cartella di controllo di Git)
+.git/
+
+# Ignora i file .DS_Store generati da macOS
+.DS_Store
+
+# Ignora la cartella .vscode
+.vscode
+
+# Ignora la cartella .metadata
+.metadata/
+
+# Ignora la cartella target
+demo/target/
+
+# Ignora i file specifici nella cartella demo
+demo/.classpath
+demo/.project
+demo/.settings/
+demo/bin/
+
+# Ignora il file customLogFile.json
+customLogFile.json

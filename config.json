@@ -1,0 +1,11 @@
+{
+  "logFileName": "customLogFile.json",
+  "eventEntry": "enter",
+  "eventReturn": "exit",
+  "objectLevel": {"target": 1},
+  "allFields": true,
+  "formatJSON": true,
+  "onlineMode": false,
+  "url": "localhost",
+  "port": 8080
+}
